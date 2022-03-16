@@ -1,0 +1,16 @@
+ID,destinations,dest_feedback_out_of_10,average_hotel_star_rating,num_all_inclusive_hotels,most_visited_city
+1,Brazil,8,4,67,Rio De Janeiro
+2,Mexico,5,5,81,Cancun
+3,Thailand,4,5,97,Phuket
+4,Spain,3,2,97,Palma de Majorca
+5,USA,8,1,56,New York
+6,France,7,3,89,Paris
+7,Italy,8,1,10,Rome
+8,Greece,3,2,47,Athens
+9,Portugal,1,1,88,Porto
+10,Colombia,8,5,21,Cartagena
+11,Cuba,1,2,76,Varadero
+12,DominicanRepublic,2,2,24,Punta Cana
+13,Egypt,4,5,92,Red Sea Resort
+14,Tunisia,3,0,20,Sousse
+15,Australia,8,2,100,Sydney
